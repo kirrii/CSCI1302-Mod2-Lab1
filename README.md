@@ -1,1 +1,1 @@
-# CSCI1302-Mod2-Lab1
+This assignment is to be used to calculate the grades for each quiz taken.
